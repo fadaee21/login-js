@@ -1,0 +1,9 @@
+.eye:hover{
+    cursor: pointer;
+    background-color: #aaa;
+}
+
+
+.warning {
+    border: 1px solid yellow;
+}
